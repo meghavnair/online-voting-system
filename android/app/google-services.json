@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1015022567440",
+    "firebase_url": "https://online-voting-system-78763-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "online-voting-system-78763",
+    "storage_bucket": "online-voting-system-78763.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015022567440:android:934afd23c990441ec98a95",
+        "android_client_info": {
+          "package_name": "com.example.corizo_main_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRCwaNPuV7SQQr8rm_4kwKBMemfjC-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015022567440:android:7f7bd2f9ca910a2bc98a95",
+        "android_client_info": {
+          "package_name": "com.example.vote_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRCwaNPuV7SQQr8rm_4kwKBMemfjC-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
